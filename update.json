@@ -1,6 +1,6 @@
 
 {
- "versionCode": "2.8",
- "url": "https://github.com/Garuda-Projects/Garuda-Injector/releases/download/V2.8/Garuda.Injector-V2.8.99201._1_.apk",
- "Message": "Build: 99201\nWhats new?\n> Added New SSL Protocol\n> Added New HTTP Protocol"
+ "versionCode": "2.9",
+ "url": "https://github.com/Garuda-Projects/Garuda-Injector/releases/tag/V2.9",
+ "Message": "Whats new?\n> Fix SSL Payload Layout\n> Fix SSL Layout Bug Auto Hide\n> Fix SSL Layout Configuration\n> Fix Anti Torrent Export Configuration\n> Fix Speed Test White Screen\n> Fix Clear Cache Function\n> Added SSL + HTTP SOCKET\n> Added Auto Reconnect for SSL + HTTP (10 Sec)\nAnd More> Added Auto Reconnect SSL/SNI (10 Sec)"
  }
